@@ -2,8 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teerasaknrt/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@teerasak.nr)
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=teerasaknrt.teerasaknrt)
+[](https://visitor-badge.glitch.me/badge?page_id=teerasaknrt.teerasaknrt)
 
 I am a Back-end Developers. I love programming and traveling.
 
